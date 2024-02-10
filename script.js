@@ -1,8 +1,4 @@
-
-
-
-
-const key = "80127ede18c11170e8bc7929ade632fc"
+//const key =
 //const img-street =
 
 //https://maps.googleapis.com/maps/api/streetview?size=400x400&location=47.5763831,-122.4211769&fov=80&heading=70&pitch=0&key=&signature=YOUR_SIGNATURE
